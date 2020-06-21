@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592647212790.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E666F19D",
+    "lastKnownWriteTime" : 2625429732180586095,
+    "last_content_update" : 1592647212790,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "ac7b85ac8e364457b102910cc4182fcf",
+        "name" : "S4_alice",
+        "title" : "S4_alice"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592648400235.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6CEA8C59",
+    "lastKnownWriteTime" : 2966223978840,
+    "last_content_update" : 1592648400235,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "0d8aff2512d149ebb18b9b0497ddd1a1",
+        "name" : "igraph_from_seqs",
+        "title" : "igraph_from_seqs"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
